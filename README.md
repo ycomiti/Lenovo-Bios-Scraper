@@ -39,7 +39,8 @@ sudo apt install curl innoextract p7zip-full realpath jq
 ## Usage
 
 1. **Set the `biosFile` variable in the script** (`scraper.sh`) to match the `.exe` filename of your Lenovo BIOS updater before running the script. *(This step may be automated in the future.)*
-2. Run the script:
+   ![Sans titre](https://github.com/user-attachments/assets/20cb7196-8232-4963-9d96-5aa6760d66cd)
+3. Run the script:
 
 ```bash
 ./scraper.sh
