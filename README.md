@@ -26,14 +26,13 @@ Always make sure to double-check the BIOS file you are using, ensure your machin
 - `curl`
 - `innoextract`
 - `7z` (from p7zip)
-- `realpath`
 - `jq`
 
 Install dependencies on Debian/Ubuntu:
 
 ```bash
 sudo apt update
-sudo apt install curl innoextract p7zip-full realpath jq
+sudo apt install curl innoextract p7zip-full jq
 ````
 
 ## Usage
